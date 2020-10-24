@@ -24,7 +24,7 @@ In this **POS System** has all the functionalities of a POS system, like custome
 
 ## JPA
 
-> Java Persistence API **(JPA)** defines the management of relational data in the Java applications. Hibernate is an Object-Relational Mapping (ORM) tool which is used to save the state of Java object into the database. It is just a specification. Various ORM tools implement it for data persistence.
+ Java Persistence API **(JPA)** defines the management of relational data in the Java applications. Hibernate is an Object-Relational Mapping (ORM) tool which is used to save the state of Java object into the database. It is just a specification. Various ORM tools implement it for data persistence.
 
 ## Contributing
 
